@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Education Management system**
 
-- 🌱 I’m currently learning **PHP , Redmine , Miro board **
+- 🌱 I’m currently learning **Drupal CMS , PHP , Redmine , Miro board **
 
 - 📫 How to reach me **hayderabdela1112@gmail.com**
 
