@@ -1,38 +1,100 @@
-<img src="https://res.cloudinary.com/dql9jy5wl/image/upload/v1710837418/kids-book/ky96yb0ymxkvkiv7cvv6.gif" target="blank" alt="hayder"  ></img>
+<img src="https://res.cloudinary.com/dql9jy5wl/image/upload/v1710837418/kids-book/ky96yb0ymxkvkiv7cvv6.gif" alt="Hayder" />
 
-<h1 align="center">Hi 👋, I'm Hayder Abdela</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" target="blank" alt="coding"  align="right"  width="350" height="200"></img>
+<h1 align="center">Hi, I'm Hayder Abdela 👋</h1>
+<h3 align="center">
+Senior Full-Stack Software Engineer | React • Node.js • Spring Boot • FastAPI • AWS
+</h3>
 
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayderabdela&label=Profile%20views&color=0e75b6&style=flat" alt="hayderabdela" /> </p>
-
-
-
-- 🔭 I’m currently working on **Education Management system**
-
-- 🌱 I’m currently learning **Drupal CMS , PHP , Redmine , Miro board **
-
-- 📫 How to reach me **hayderabdela1112@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hayder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hayder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hayder-abdela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hayder-abdela" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/hayderabdela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hayderabdela" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hayder_abdela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hayder_abdela" height="30" width="40" /></a>
-<a href="https://medium.com/@hayder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hayder" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hayderabdela&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayderabdela&show_icons=true&locale=en&layout=compact" alt="hayderabdela" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayderabdela&show_icons=true&locale=en" alt="hayderabdela" /></p>
+I’m a **Full-Stack Software Engineer with 4+ years of experience** building **scalable, production-ready web and mobile applications**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayderabdela&" alt="hayderabdela" /></p>
+I take ownership of the **entire technical lifecycle** — backend, frontend, databases, and cloud — helping startups and businesses ship faster, reduce technical debt, and scale confidently.
+
+---
+
+### 🔧 What I Work With
+
+#### 🧠 Backend
+- Java (Spring Boot, Spring Security)
+- Node.js (NestJS, Express)
+- Python (FastAPI, Django)
+- REST & GraphQL APIs
+- JWT / OAuth2 Authentication
+- Kafka, RabbitMQ, Redis
+
+#### 🎨 Frontend
+- React, Next.js
+- TypeScript, JavaScript
+- Tailwind CSS, shadcn/ui
+- Redux Toolkit, React Query
+- SEO & performance optimization
+
+#### 🗄️ Databases
+- PostgreSQL, MySQL
+- MongoDB, DynamoDB
+- Redis
+- Prisma, TypeORM, Drizzle ORM
+
+#### ☁️ DevOps & Cloud
+- Docker, Kubernetes
+- GitHub Actions (CI/CD)
+- AWS, GCP, DigitalOcean
+- Terraform (IaC)
+
+#### 📱 Mobile
+- Flutter (Dart)
+
+---
+
+### 🔭 Current Focus
+- Building **Education & Student Management Systems**
+- Designing **scalable backend APIs**
+- Improving **cloud deployment & DevOps workflows**
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **hayderabdela1112@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/hayder-abdela](https://www.linkedin.com/in/hayder-abdela)
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://dev.to/hayder" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/hayder-abdela" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+</a>
+<a href="https://www.kaggle.com/hayderabdela" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" />
+</a>
+<a href="https://medium.com/@hayder" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayderabdela&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayderabdela" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayderabdela&layout=compact" />
+</p>
